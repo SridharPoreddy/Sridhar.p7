@@ -1,0 +1,102 @@
+Team Charter Content
+
+Team Charter is a contract among the Agile team on how they will work with each other to achieve their commitments and deliverables as planned. Each Agile team member should commit to this agreement. It is recommended that the Scrum Master would collect a simple "I agree" respond from each core team member in regards to their respond to this charter. It is also recommended that the team would occasionally review this charter as a group to ensure alignment with their initial agreement. 
+Team charter is a "roadmap" and the team creates at the beginning of the journey to make sure all involved are clear on where they are heading and to give direction when times get tough. 
+
+1.	Team Leader (and champion/sponsor if different)
+a.	IT: Scott Mersino 
+Direction from Scott during the Kick of meeting to RxTransformers team: 
+i.	Team should be dedicated completely to RxTransformers scrum team.
+ii.	All communications to be known to PO and complete ownership with PO.
+iii.	The stories to complete development stories (Dev,QA,SA,UAT) with the sprint time box , no special stories for Dev only, QA only , SA only and UAT only etc…
+b.	Business: XXXXXXXX
+2.	Team Members (with expertise and time commitments for each)
+a.	Product Owner : Molisa U Gwate
+b.	Coach : Sudheer Reddy 
+c.	Scrum Master: Sridhar Poreddy
+d.	Developers : Ankit Ganeriwala; Ashish Goyal; Swapna Valluri; Saritha Kotnala; Dipti Nayal; 
+e.	QE : Deepa Dantuluri; Bammidi (Santosh) Kumar
+f.	SA :  Judy Blaylock
+g.	UAT : Judy Blaylock
+h.	Travelers: Mike Ferrando; Dave Harper 
+3.	Environment:
+•	Dev, QA (RxDV1), UAT(SYT10), Stage and Production
+•	Demo: 
+Story level: After every story is complete either QA/Developer give a demo to PO for getting the acceptance.
+System level: BA/PO would present a demo to business stakeholders as planned.
+•	Documentation Repository: Rally and ADR.
+•	Communication:  Rally/Flowdock
+
+
+4.	Attending and being active participants in all Scrum ceremony meetings (Required)
+a.	The Daily Stand Up (Development (Dev, QA, SA, BA) Team and Product Owner (and/or delegates) 
+b.	The daily collaboration meeting
+c.	Release planning
+d.	Backlog refinement
+e.	Sprit review and Demo (if the team is at end of each sprint)
+f.	Sprint Retrospective
+
+5.	Understand the Product Owner’s responsibilities.
+
+a.	The business vision is clear and well-understood by the team 
+b.	Product backlog groomed with clear product owner ownership
+c.	Backlog is composed of clear, well-written customer-centric stories
+d.	Collaborates with team to maintain a clear "definition of done" and can accept stories. 
+e.	Participates in the sprint demo/review, retrospectives, and standups
+
+6.	SA Expectation: 
+a.	Have analysis completed before back log grooming session begins.
+b.	They are responsible for planning, design, testing, and project delivery.
+c.	He/ She has to support PO for making the acceptance criteria’s 
+d.	Should include the design flow to the stories where ever required.
+e.	Should get all the necessary details for the stories and make them more informative.
+f.	Identify the dependencies proactively.
+g.	Join the Cross app meetings and convey the dependencies. 
+
+7.	Developer Expectation: 
+a.	Participate in all scrum events.
+b.	The team is cross functional (Dev can execute some tests), has all the resources necessary to deliver stories.
+c.	Support PO, SA with respect to design and make the stories more informative during the back log refinement sessions.
+d.	Participate in estimations and provide appropriate estimations to stories planned.
+e.	Proactively identify the integration areas and create tasks to stories accordingly.
+f.	Raise the dependencies and prerequisites beforehand and make those are captured to the stories as part of backlog refinement.
+g.	For any changes in design during the coding, take the complete acceptance from PO before proceeding with new approach. PO’s approval on new approach is mandatory for any change in approach/scope.
+h.	Develop sufficient Unit test coverage for the code developed.
+i.	Maintain version controlling for builds and code promotions.
+j.	Maintain proper communication channels like flow dock, mails etc..for any code movements /changes to the originally planned approaches. 
+k.	Deliver for early enough for QA and UAT to complete.
+l.	Support QA and UAT team members where ever required.
+m.	Co-ordinate efficiently with other developers and plan the dependencies with ease.
+
+8.	QA Expectation: 
+a.	Adapt left shift approach in involving them to the Software Development cycle.
+b.	Collaborate with SA /PO/DEV team member and design the test cases for testing.
+c.	Contribute in adding both positive and negative acceptance criteria to stories during the backlog refinement sessions. 
+d.	Identify the dependencies during the grooming sessions and ensure those are captured to dependency sections. 
+e.	Any other important information related to the business scenarios are to be captured to the notes sections on the stories. 
+f.	Identify the test data requirements in advance and prepare a tracker for better co-ordination with cross apps. 
+g.	Prepare the little documents w.r.to business logic where ever required/requested.
+h.	Complete testing for UAT to start
+i.	Support Developers /UAT team with test data whenever and where ever required.
+j.	The team is cross functional, has all the resources necessary to deliver stories
+k.	They are responsible for planning, testing, and project delivery.
+l.	If necessary QA to start the automation scripts during the sprint itself. 
+
+9.	UAT Expectation:
+a.	Adapt left shift approach in involving them to the Software Development cycle.
+b.	Collaborate with SA /PO/DEV team member and design the test cases for testing.
+c.	Contribute in adding both positive and negative acceptance criteria to stories during the backlog refinement sessions. 
+d.	Design test cases w.r.to business scenarios.
+e.	Prepare a separate test data where ever required in advance to complete the UAT testing before the story is complete.
+f.	 Co-ordinate well with developers/Tester /PO in doing complete testing w.r.to business scenarios as planned.
+g.	complete testing by last day of sprint
+h.	The team is cross functional, has all the resources necessary to deliver stories
+i.	They are responsible for planning, testing, and project delivery.
+
+10.	Working together to “right size” Sprint backlogs
+a.	Only accept user stories in a sprint that are estimated
+b.	Creating and estimating Spike user stories to do PoC or technical investigations
+c.	Swapping of user stories (in and out of the sprint) will only occur if we all agree will not cause us to fail.
+d.	Creating tasks that reflect what we will be able to accomplish within less than 12 hours
+e.	Owning our tasks and keeping the status of “to do” updated in Rally on a daily basis (updating Rally prior to the Daily Stand up meeting)
+

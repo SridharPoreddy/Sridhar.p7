@@ -1,0 +1,37 @@
+Definition of Done
+Definition of Done for a User Story
+•	Coding standard practices should be followed. (Refer Appendix)
+•	The code review comments should be added, updated with review comments and tracked till closure via. Tasks.
+•	The unit testing and test case review should be done and tracked via. Corresponding tasks.
+•	Achieve 85% unit test code coverage for all new code induced into the system. (*)
+•	All New Test cases that are relevant for regression are updated into the Product Regression Suite. 
+•	As a development practice, Feature toggles are implemented.
+•	All tasks in the story should be completed.
+•	Functional test cases should be reviewed by PO’s. 
+•	Enabler (Technical features) feature test cases should be reviewed by Engineering Leads.
+•	Code is checked in and merged into trunk. Proper Code check-in nomenclature to be followed. (Refer Appendix)
+•	Sonar Scan is done on the code (whenever required.)
+•	User Story acceptance criteria has been met and demoe’d to the Product Owner/ Engineering Lead.
+•	For Tech Spikes, Analysis documentation to be done and attached to the User Story and demoe’d to the team.
+•	Story accepted by the Product Owner/Engineering Lead.
+•	(Sign off) Towards the end of the sprint, a single sign-off email should be sent from the Engineering Manager to the respective Scrum Master and the Product Owner confirming that all US in the Sprint confirms to the DOD.
+
+(*) – There is no DB unit testing practice in Script Switch yet. Hence, there won’t be any DB code coverage.
+Definition of Done for a Feature
+•	All stories for the feature are done as per definition of done.
+•	Performance testing done (as applicable)
+•	Nonfunctional requirements met (when required.)
+•	All incomplete stories are unscheduled from current feature and moved to a different feature and PI.
+•	Feature accepted by the Product Manager
+•	Training manual updated by PO’s.
+Definition of Ready for a Release (DOD for Release)
+•	Features, User-stories and O&M Tickets should be tied to a “milestone” in CA Agile central.
+•	Features meet the definition of done.
+•	End to end integration and System testing done.
+•	Security scans (Fortify, Pen Test) passed and sev1 and sev2 issues fixed – On the roadmap.
+•	A QA Leadership reviews all that is required and provides a single signoff email which is stored in project share point. (Sign off)
+•	Need Architecture Sign off email from Solution/Technical architects and stored in project-share point. (Sign off)
+•	UAT Signoff email (Go/No-Go) received and stored in project share-point. (Sign off)
+•	Release Notes documented. (Owner: PM) 
+•	 The Product Owner (PO) updates the Hazard Log and Clinical Safety Report (Whenever applicable).
+•	Deployment day planning (Owner: Release Manager) and documentation done.
